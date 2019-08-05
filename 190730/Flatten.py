@@ -5,26 +5,41 @@ for test_case in range(1, 11):
     dump_count = int(input())
     arr = list(map(int, input().split()))
 
+    # count_list = [0] * 101
+    # max_count = 0
+    # min_count = 0
+    # for i in arr:
+    #     count_list[i] += 1
+    # for i in range(dump_count):
+    #     for j in range(1, 101):
+    #         if count_list[j]:
+    #             min_count = j
+    #             count_list[j] -= 1
+    #             count_list[j+1] += 1
+    #             break
+    #     for j in range(100, 1, -1):
+    #         if count_list[j]:
+    #             max_count = j
+    #             count_list[j] -= 1
+    #             count_list[j-1] += 1
+    #             break
+    #     if (max_count-min_count) <= 1:
+    #         break
+    # for j in range(1, 101):
+    #     if count_list[j]:
+    #         min_count = j
+    #         break
+    # for j in range(100, 1, -1):
+    #     if count_list[j]:
+    #         max_count = j
+    #         break
+    # print('#{} {}'.format(test_case, max_count - min_count))
+
     count_list = [0] * 101
     max_count = 0
     min_count = 0
     for i in arr:
         count_list[i] += 1
-    for i in range(dump_count):
-        for j in range(1, 101):
-            if count_list[j]:
-                min_count = j
-                count_list[j] -= 1
-                count_list[j+1] += 1
-                break
-        for j in range(100, 1, -1):
-            if count_list[j]:
-                max_count = j
-                count_list[j] -= 1
-                count_list[j-1] += 1
-                break
-        if (max_count-min_count) <= 1:
-            break
     for j in range(1, 101):
         if count_list[j]:
             min_count = j
@@ -32,6 +47,17 @@ for test_case in range(1, 11):
     for j in range(100, 1, -1):
         if count_list[j]:
             max_count = j
+            break
+    for i in range(dump_count):
+        count_list[min_count] -= 1
+        count_list[min_count + 1] += 1
+        count_list[max_count] -= 1
+        count_list[max_count - 1] += 1
+        if not count_list[min_count]:
+            min_count += 1
+        if not count_list[max_count]:
+            max_count -= 1
+        if (max_count - min_count) <= 1:
             break
     print('#{} {}'.format(test_case, max_count - min_count))
 
