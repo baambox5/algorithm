@@ -6,14 +6,19 @@ arr = []
 for i in range(N):
     arr += [int(input())]
 max_dist = 0
-min_dist = 10000
+min_dist = 0
+max_dist = (arr[-1] - arr[0]) // (M - 1)
 for i in range(N - 1):
     for j in range(i + 1, N):
-        if arr[i] > arr[j]:
-            arr[i], arr[j] = arr[j], arr[i]
-# for i in range(N - M + 1):
-#     for j in range(i + 1, ):
-#
-print(max_dist)
+        diff = arr[i] - arr[j]
+        if diff < 0:
+            diff = -diff
+        if min_dist < diff < max_dist:
+            min_dist = diff
+            res = diff
+print(res)
+
+
+
 
 
