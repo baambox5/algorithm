@@ -14,11 +14,12 @@ for test_case in range(1, 11):
         for j in range(9 - M):
             row_count = 0
             column_count = 0
+            e = j + M - 1
             # 가로, 세로 둘 다 동시에 확인
             for k in range(half_M):
-                if arr[i][j+k] == arr[i][j-k+M-1]:
+                if arr[i][j+k] == arr[i][e-k]:
                     row_count += 1
-                if arr[j+k][i] == arr[j-k+M-1][i]:
+                if arr[j+k][i] == arr[e-k][i]:
                     column_count += 1
             if row_count == half_M:
                 count += 1
