@@ -1,6 +1,5 @@
 import sys
 sys.stdin = open('11724.txt', 'r')
-import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(2**16)
 
