@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d89450-259c-4ea4-af18-875ef6e89ac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/190822/2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190822/2178.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190822/2206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190822/2206.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190822/2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190822/2667.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190827/4875_maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190827/4880_tournament.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/190827/4881_array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190821/11724.py" beforeDir="false" afterPath="$PROJECT_DIR$/190821/11724.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,66 +17,47 @@
     <session id="1560976522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.2" value="15" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="3" />
-          <entry key="py" value="85" />
-          <entry key="txt" value="63" />
+          <entry key="py" value="94" />
+          <entry key="txt" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="3" />
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="85" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Python" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="6" />
-          <entry key="dummy" value="8" />
-          <entry key="py" value="27514" />
-          <entry key="txt" value="73" />
+          <entry key="dummy" value="21" />
+          <entry key="py" value="30972" />
+          <entry key="txt" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C++" value="6" />
-          <entry key="PLAIN_TEXT" value="81" />
-          <entry key="Python" value="27514" />
+          <entry key="PLAIN_TEXT" value="132" />
+          <entry key="Python" value="30972" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/190822/2206.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-363">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190822/2206.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,14 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190730/4831.py" />
-        <option value="$PROJECT_DIR$/190805/million.py" />
-        <option value="$PROJECT_DIR$/190805/ex1.py" />
-        <option value="$PROJECT_DIR$/190805/ex2.py" />
-        <option value="$PROJECT_DIR$/190805/ex3.py" />
-        <option value="$PROJECT_DIR$/190805/sum.py" />
-        <option value="$PROJECT_DIR$/190806/4836.py" />
-        <option value="$PROJECT_DIR$/190806/4839.py" />
         <option value="$PROJECT_DIR$/190806/4843.py" />
         <option value="$PROJECT_DIR$/190806/metal_stick.py" />
         <option value="$PROJECT_DIR$/190806/4837.py" />
@@ -151,14 +120,21 @@
         <option value="$PROJECT_DIR$/190821/11724.py" />
         <option value="$PROJECT_DIR$/190822/2206.py" />
         <option value="$PROJECT_DIR$/190822/2206.txt" />
+        <option value="$PROJECT_DIR$/190827/4874.txt" />
+        <option value="$PROJECT_DIR$/190827/4874.py" />
+        <option value="$PROJECT_DIR$/190827/4875.py" />
+        <option value="$PROJECT_DIR$/190827/4875_maze.py" />
+        <option value="$PROJECT_DIR$/190827/4881.py" />
+        <option value="$PROJECT_DIR$/190827/4881_array.py" />
+        <option value="$PROJECT_DIR$/190827/4880.txt" />
+        <option value="$PROJECT_DIR$/190827/4880_tournament.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="498" />
-    <option name="y" value="71" />
-    <option name="width" value="1521" />
-    <option name="height" value="1000" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -186,22 +162,12 @@
             <path>
               <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="190819" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="190826" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="190820" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="190821" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="190822" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="190827" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -210,6 +176,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -224,28 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2206">
-    <configuration name="2178" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190822" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190822/2178.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4880_tournament">
     <configuration name="2206" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4874" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190822" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190822/2667.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827/4874.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7964" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4875_maze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820/7964.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827/4875_maze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="working_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4880_tournament" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +263,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190820" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190820/working_order.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827/4880_tournament.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4881_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190827/4881_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +298,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.working_order" />
-      <item itemvalue="Python.7964" />
-      <item itemvalue="Python.2667" />
-      <item itemvalue="Python.2178" />
       <item itemvalue="Python.2206" />
+      <item itemvalue="Python.4874" />
+      <item itemvalue="Python.4875_maze" />
+      <item itemvalue="Python.4880_tournament" />
+      <item itemvalue="Python.4881_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4880_tournament" />
+        <item itemvalue="Python.4881_array" />
+        <item itemvalue="Python.4875_maze" />
+        <item itemvalue="Python.4874" />
         <item itemvalue="Python.2206" />
-        <item itemvalue="Python.2178" />
-        <item itemvalue="Python.2667" />
-        <item itemvalue="Python.7964" />
-        <item itemvalue="Python.working_order" />
       </list>
     </recent_temporary>
   </component>
@@ -361,15 +328,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="498" y="71" width="1521" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16385704" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30751446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29166666" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,61 +372,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/190813/4861.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/4865.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/palindrome1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/1946.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/4522.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/4522.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="44" lean-forward="true" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/4579.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/palindrome2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="100" lean-forward="true" selection-start-line="1" selection-start-column="100" selection-end-line="1" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190813/4579.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190813/2110_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -659,20 +570,8 @@
     <entry file="file://$PROJECT_DIR$/190820/7964.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2667.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2178.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/190822/2667.txt" />
+    <entry file="file://$PROJECT_DIR$/190822/2178.txt" />
     <entry file="file://$PROJECT_DIR$/190821/1260.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78" />
@@ -685,31 +584,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2667.py">
+    <entry file="file://$PROJECT_DIR$/190822/2667.py" />
+    <entry file="file://$PROJECT_DIR$/190822/2178.py" />
+    <entry file="file://$PROJECT_DIR$/190822/2206.txt" />
+    <entry file="file://$PROJECT_DIR$/190822/2206.py" />
+    <entry file="file://$PROJECT_DIR$/190827/4874.py" />
+    <entry file="file://$PROJECT_DIR$/190827/4874.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="1" column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2178.py">
+    <entry file="file://$PROJECT_DIR$/190827/4874_Forth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2206.txt">
+    <entry file="file://$PROJECT_DIR$/190827/4875_maze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        <state relative-caret-position="587">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190822/2206.py">
+    <entry file="file://$PROJECT_DIR$/190827/4880_tournament.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="392">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827/4880.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190827/4881_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190826/ex_3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../빌드테스트(Build Test)_지우지마세요/한글(Kor)/3-2. Hello World(Python).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
