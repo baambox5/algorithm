@@ -19,4 +19,3 @@ for test_case in range(1, int(input()) + 1):
     arr = input().split()
     idx = tournament(0, N-1)
     print('#{} {}'.format(test_case, idx + 1))
-
