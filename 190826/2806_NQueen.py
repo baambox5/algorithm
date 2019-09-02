@@ -16,7 +16,7 @@ def perm(k, visit):
                 order[k] = i
                 res += perm(k+1, visit | (1 << i))
         else:
-            if res != None:
+            if res:
                 return res
             else:
                 return 0
