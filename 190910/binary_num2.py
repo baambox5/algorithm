@@ -10,7 +10,7 @@ def binary(k, num):
     elif math.isclose(num, 0.0):
         return
     else:
-        if num >= 1 * 2**(-k):
+        if num >= 1 >> 2**(-k):
             res += '1'
             num -= 1 * 2**(-k)
         else:

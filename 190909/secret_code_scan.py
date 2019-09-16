@@ -1,8 +1,8 @@
 import sys
 sys.stdin = open('secret_code_scan.txt', 'r')
 
-code = {(3, 2, 1, 1): 0, (2, 2, 2, 1): 1, (2, 1, 2, 2): 2, (1, 4, 1, 1): 3, (1, 1, 3, 2): 4, (1, 2, 3, 1): 5,
-        (1, 1, 1, 4): 6, (1, 3, 1, 2): 7, (1, 2, 1, 3): 8, (3, 1, 1, 2): 9}
+code = {(2, 1, 1): 0, (2, 2, 1): 1, (1, 2, 2): 2, (4, 1, 1): 3, (1, 3, 2): 4, (2, 3, 1): 5,
+        (1, 1, 4): 6, (3, 1, 2): 7, (2, 1, 3): 8, (1, 1, 2): 9}
 hex_char = {'A': 10, 'B': 11, 'C': 12, 'D': 13, 'E': 14, 'F': 15}
 
 
@@ -63,8 +63,6 @@ for test_case in range(1, int(input()) + 1):
                 column_idx = 0
                 n += 1
                 bi_list += [bi_code]
-    column_idx = 0
-    print(bi_list)
     for i in range(len(bi_list)):
         res_code = [0] * 8
         count = 7
@@ -91,10 +89,12 @@ for test_case in range(1, int(input()) + 1):
                         min_count = count_2
                     if min_count > count_3:
                         min_count = count_3
-                j -= 7*min_count - count_1 - count_2 - count_3
                 count_1, count_2, count_3 = count_1 // min_count, count_2 // min_count, count_3 // min_count
-                if (7 - count_1 - count_2 - count_3, count_3, count_2, count_1) in code:
-                    res_code[count] = code[(7 - count_1 - count_2 - count_3, count_3, count_2, count_1)]
+                if (count_3, count_2, count_1) in code:
+                    res_code[count] = code[(count_3, count_2, count_1)]
+                    j -= (7 - count_1 - count_2 - count_3) * min_count
+                else:
+                    j += count_3 * min_count
                 count_1, count_2, count_3 = 0, 0, 0
                 count -= 1
                 continue
@@ -103,8 +103,6 @@ for test_case in range(1, int(input()) + 1):
         even = res_code[1] + res_code[3] + res_code[5] + res_code[7]
         if not (odd*3 + even) % 10:
             res += odd + even
-        if res:
-            break
     print('#{} {}'.format(test_case, res))
 
 
