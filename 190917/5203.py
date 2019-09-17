@@ -29,7 +29,6 @@ for test_case in range(1, int(input()) + 1):
                     if p_2[arr[i+1]+d_1[j]] and p_2[arr[i+1]+d_2[j]]:
                         res_2 = 1
             if res_1 and res_2:
-                res = 0
                 break
             elif res_1:
                 res = 1
@@ -37,6 +36,4 @@ for test_case in range(1, int(input()) + 1):
             elif res_2:
                 res = 2
                 break
-    else:
-        res = 0
     print('#{} {}'.format(test_case, res))
