@@ -1,6 +1,6 @@
 import sys
 sys.stdin = open('10026.txt', 'r')
-
+sys.setrecursionlimit(10**6)
 
 dx = [-1, 0, 1, 0]
 dy = [0, -1, 0, 1]
@@ -14,7 +14,7 @@ def dfs(x, y, s, flag):
                     visit_normal[nx][ny] = 1
                     dfs(nx, ny, s, flag)
             else:
-                if arr[nx][ny] == s or (s == 'R' and arr[nx][ny] == 'G') or (s == 'G' and arr[nx][ny] == 'R') and not visit_sick[nx][ny]:
+                if not visit_sick[nx][ny] and (arr[nx][ny] == s or (s == 'R' and arr[nx][ny] == 'G') or (s == 'G' and arr[nx][ny] == 'R')):
                     visit_sick[nx][ny] = 1
                     dfs(nx, ny, s, flag)
 
@@ -22,7 +22,7 @@ def dfs(x, y, s, flag):
 N = int(input())
 arr = []
 for _ in range(N):
-    arr += input()
+    arr += [input()]
 count_sick = 0
 count_normal = 0
 visit_sick = [[0] * N for _ in range(N)]
