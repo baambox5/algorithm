@@ -32,3 +32,31 @@ for test_case in range(1, int(input()) + 1):
     A = list(map(int, input().split()))
     B = list(map(int, input().split()))
     merge_sort(0, N - 1)
+    count = 0
+    for num in B:
+        le = 1
+        ri = 1
+        lo = 0
+        hi = N - 1
+        while True:
+            mid = (lo + hi) >> 1
+            if A[mid] < num:
+                lo = mid + 1
+                if le:
+                    ri = 1
+                    le = 0
+                else:
+                    break
+            elif A[mid] > num:
+                hi = mid - 1
+                if ri:
+                    le = 1
+                    ri = 0
+                else:
+                    break
+            else:
+                count += 1
+                break
+            if mid == (lo + hi) >> 1:
+                break
+    print('#{} {}'.format(test_case, count))
