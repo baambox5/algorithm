@@ -5,26 +5,52 @@ sys.stdin = open('17143.txt', 'r')
 def move(n, x, y, d, s):
     if d == 1:
         if x + s > R:
-            s = x + s - R
+            s += x - R
             x = R
             d = 2
             move(n, x, y, d, s)
+            return
         else:
             x += s
             s = 0
+            if x == R:
+                d = 2
     elif d == 2:
         if x - s < 1:
-            s = x - s - 1
+            s += 1 - x
             x = 1
             d = 1
             move(n, x, y, d, s)
+            return
         else:
             x -= s
             s = 0
+            if x == 1:
+                d = 1
     elif d == 3:
-
+        if y + s > C:
+            s += y - C
+            y = C
+            d = 4
+            move(n, x, y, d, s)
+            return
+        else:
+            y += s
+            s = 0
+            if y == C:
+                d = 4
     else:
-
+        if y - s < 1:
+            s += 1 - y
+            y = 1
+            d = 3
+            move(n, x, y, d, s)
+            return
+        else:
+            y -= s
+            s = 0
+            if y == 1:
+                d = 3
     if not s:
         shark[n][1] = x
         shark[n][2] = y
