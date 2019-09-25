@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d89450-259c-4ea4-af18-875ef6e89ac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/190924/17143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/17143.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/3980.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/3980.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/5208.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/5209.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190924/high_shelf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190923/5207.py" beforeDir="false" afterPath="$PROJECT_DIR$/190923/5207.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190924/17143.py" beforeDir="false" afterPath="$PROJECT_DIR$/190924/17143.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190924/17143.txt" beforeDir="false" afterPath="$PROJECT_DIR$/190924/17143.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +16,12 @@
     <session id="1560976522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="45" />
+          <entry key="project.closed" value="47" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.2" value="27" />
-          <entry key="project.open.time.3" value="9" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.open.time.2" value="28" />
+          <entry key="project.open.time.3" value="10" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +43,7 @@
         <counts>
           <entry key="c" value="6" />
           <entry key="dummy" value="27" />
-          <entry key="py" value="74552" />
+          <entry key="py" value="74570" />
           <entry key="txt" value="342" />
         </counts>
       </usages-collector>
@@ -57,7 +51,7 @@
         <counts>
           <entry key="C++" value="6" />
           <entry key="PLAIN_TEXT" value="369" />
-          <entry key="Python" value="74552" />
+          <entry key="Python" value="74570" />
         </counts>
       </usages-collector>
     </session>
@@ -67,10 +61,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/190924/17143.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            <state relative-caret-position="880">
+              <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
               <folding>
-                <marker date="1569315624575" expanded="true" signature="72:556" ph="..." />
+                <marker date="1569370171860" expanded="true" signature="72:1132" ph="..." />
               </folding>
             </state>
           </provider>
@@ -80,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/190924/5208.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/190924/17143.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="64">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -163,8 +157,8 @@
         <option value="$PROJECT_DIR$/190924/high_shelf.py" />
         <option value="$PROJECT_DIR$/190924/3980.txt" />
         <option value="$PROJECT_DIR$/190924/3980.py" />
-        <option value="$PROJECT_DIR$/190924/17143.txt" />
         <option value="$PROJECT_DIR$/190924/17143.py" />
+        <option value="$PROJECT_DIR$/190924/17143.txt" />
       </list>
     </option>
   </component>
@@ -179,17 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -206,6 +189,17 @@
               <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="190924" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +362,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49928468" visible="true" weight="0.07376186" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928468" visible="true" weight="0.07376186" />
       <window_info id="Structure" order="1" sideWeight="0.5007153" side_tool="true" weight="0.07376186" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -634,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" column="44" selection-start-line="20" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <marker date="1569226538330" expanded="true" signature="70:419" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1569301560575" expanded="true" signature="88:320" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -688,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <marker date="1569300648879" expanded="true" signature="51:53" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding>
-            <marker date="1569294165729" expanded="true" signature="70:591" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,27 +693,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190924/17143.txt">
+    <entry file="file://$PROJECT_DIR$/190924/17143.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="880">
+          <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
+          <folding>
+            <marker date="1569370171860" expanded="true" signature="72:1132" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/190924/5208.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190924/17143.py">
+    <entry file="file://$PROJECT_DIR$/190924/17143.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-          <folding>
-            <marker date="1569315624575" expanded="true" signature="72:556" ph="..." />
-          </folding>
+        <state relative-caret-position="64">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
