@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/191004/both_arms.py" line="4" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64d89450-259c-4ea4-af18-875ef6e89ac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/190926/1799.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190926/1799.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191004/both_arms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191004/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191004/pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,34 +22,34 @@
     <session id="1560976522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="50" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.2" value="29" />
+          <entry key="project.open.time.2" value="30" />
           <entry key="project.open.time.3" value="11" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="2615" value="2" />
           <entry key="c" value="3" />
-          <entry key="py" value="228" />
-          <entry key="txt" value="141" />
+          <entry key="py" value="233" />
+          <entry key="txt" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="3" />
-          <entry key="PLAIN_TEXT" value="143" />
-          <entry key="Python" value="228" />
+          <entry key="PLAIN_TEXT" value="144" />
+          <entry key="Python" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="6" />
           <entry key="dummy" value="27" />
-          <entry key="py" value="75713" />
+          <entry key="py" value="78919" />
           <entry key="txt" value="342" />
         </counts>
       </usages-collector>
@@ -51,7 +57,7 @@
         <counts>
           <entry key="C++" value="6" />
           <entry key="PLAIN_TEXT" value="369" />
-          <entry key="Python" value="75713" />
+          <entry key="Python" value="78919" />
         </counts>
       </usages-collector>
     </session>
@@ -59,19 +65,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/190926/1799.py">
+        <entry file="file://$PROJECT_DIR$/191004/both_arms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190926/1799.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1570179530472" expanded="true" signature="51:52" ph="..." />
+                <marker date="1570179530472" expanded="true" signature="74:273" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,9 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190903/5122.py" />
-        <option value="$PROJECT_DIR$/190902/14501.txt" />
-        <option value="$PROJECT_DIR$/190902/14501.py" />
         <option value="$PROJECT_DIR$/190902/15686.txt" />
         <option value="$PROJECT_DIR$/190902/15686.py" />
         <option value="$PROJECT_DIR$/190902/16234.txt" />
@@ -147,13 +145,16 @@
         <option value="$PROJECT_DIR$/190924/17143.txt" />
         <option value="$PROJECT_DIR$/190926/1799.txt" />
         <option value="$PROJECT_DIR$/190926/1799.py" />
+        <option value="$PROJECT_DIR$/191004/pool.py" />
+        <option value="$PROJECT_DIR$/191004/calculator.py" />
+        <option value="$PROJECT_DIR$/191004/both_arms.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1094" />
-    <option name="y" value="95" />
-    <option name="width" value="936" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="851" />
+    <option name="y" value="84" />
+    <option name="width" value="996" />
     <option name="height" value="901" />
   </component>
   <component name="ProjectView">
@@ -161,22 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="190926" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,11 +173,27 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="191004" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1799">
+  <component name="RunManager" selected="Python.both_arms">
     <configuration name="17143" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3980" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="both_arms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190924" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190924/3980.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191004/both_arms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5209" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +279,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190924" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190924/5209.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191004/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="high_shelf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190924" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190924/high_shelf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191004/pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +314,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.high_shelf" />
-      <item itemvalue="Python.5209" />
-      <item itemvalue="Python.3980" />
       <item itemvalue="Python.17143" />
       <item itemvalue="Python.1799" />
+      <item itemvalue="Python.both_arms" />
+      <item itemvalue="Python.calculator" />
+      <item itemvalue="Python.pool" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.both_arms" />
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.pool" />
         <item itemvalue="Python.1799" />
         <item itemvalue="Python.17143" />
-        <item itemvalue="Python.3980" />
-        <item itemvalue="Python.high_shelf" />
-        <item itemvalue="Python.5209" />
       </list>
     </recent_temporary>
   </component>
@@ -343,14 +344,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="851" y="84" width="996" height="901" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49928468" visible="true" weight="0.07376186" />
-      <window_info id="Structure" order="1" sideWeight="0.5007153" side_tool="true" weight="0.07376186" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974271" visible="true" weight="0.14613779" />
+      <window_info id="Structure" order="1" sideWeight="0.5025729" side_tool="true" weight="0.14613779" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23995657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23890339" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,30 +369,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/190902/14501.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190903/17136(fail).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190904/othello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190910/bank.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/190910/binary_num.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -685,15 +662,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/190926/1799.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="817">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/190926/1799.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="90">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191004/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191004/calculator.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191004/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <marker date="1570175339516" expanded="true" signature="81:206" ph="..." />
+            <marker date="1570175339516" expanded="true" signature="549:551" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191004/both_arms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1570179530472" expanded="true" signature="51:52" ph="..." />
+            <marker date="1570179530472" expanded="true" signature="74:273" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
