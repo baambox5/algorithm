@@ -22,7 +22,7 @@ def postorder(n):
 N = 13
 in_str = '1 2 1 3 2 4 3 5 3 6 4 7 5 8 5 9 6 10 6 11 7 12 11 13'
 get_str = list(map(int, in_str.split()))
-arr = [[0] * 2 for i in range(N + 1)]
+arr = [[0] * 2 for _ in range(N + 1)]
 for i in range(N - 1):
     if not arr[get_str[i*2]][0]:
         arr[get_str[i*2]][0] = get_str[i*2+1]
