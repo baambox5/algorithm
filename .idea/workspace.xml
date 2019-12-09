@@ -6,9 +6,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64d89450-259c-4ea4-af18-875ef6e89ac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/191115/dessert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191115/magnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191115/stem_cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/2468_안전영역_고병권.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/2636_치즈_고병권.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/2667_단지번호붙이기_병권.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/attach_number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/cheese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/iceberg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/iceberg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191209/safety_area.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,77 +28,56 @@
     <session id="1560976522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="63" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="64" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.2" value="36" />
           <entry key="project.open.time.3" value="16" />
-          <entry key="project.opened" value="65" />
+          <entry key="project.opened" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="2615" value="2" />
           <entry key="c" value="3" />
-          <entry key="py" value="312" />
-          <entry key="txt" value="173" />
+          <entry key="py" value="319" />
+          <entry key="txt" value="178" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="3" />
-          <entry key="PLAIN_TEXT" value="175" />
-          <entry key="Python" value="312" />
+          <entry key="PLAIN_TEXT" value="180" />
+          <entry key="Python" value="319" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="6" />
-          <entry key="dummy" value="27" />
-          <entry key="py" value="109704" />
+          <entry key="dummy" value="66" />
+          <entry key="py" value="113421" />
           <entry key="txt" value="506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C++" value="6" />
-          <entry key="PLAIN_TEXT" value="533" />
-          <entry key="Python" value="109704" />
+          <entry key="PLAIN_TEXT" value="572" />
+          <entry key="Python" value="113421" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/191115/dessert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding>
-                <marker date="1573781915284" expanded="true" signature="101:1225" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/191115/magnet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <marker date="1573786499478" expanded="true" signature="98:1084" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/191115/stem_cell.py">
+        <entry file="file://$PROJECT_DIR$/191209/iceberg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="404">
+              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <folding>
+                <marker date="1575867522591" expanded="true" signature="286:480" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,14 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190826/2806_NQueen.py" />
-        <option value="$PROJECT_DIR$/190826/2806.txt" />
-        <option value="$PROJECT_DIR$/190923/5205.py" />
-        <option value="$PROJECT_DIR$/190923/5204.py" />
-        <option value="$PROJECT_DIR$/190923/5207.txt" />
-        <option value="$PROJECT_DIR$/190923/5207.py" />
-        <option value="$PROJECT_DIR$/190924/5208.py" />
-        <option value="$PROJECT_DIR$/190924/5209.py" />
         <option value="$PROJECT_DIR$/190924/high_shelf.py" />
         <option value="$PROJECT_DIR$/190924/3980.txt" />
         <option value="$PROJECT_DIR$/190924/3980.py" />
@@ -167,12 +145,20 @@
         <option value="$PROJECT_DIR$/191115/dessert.py" />
         <option value="$PROJECT_DIR$/191115/magnet.py" />
         <option value="$PROJECT_DIR$/191115/stem_cell.py" />
+        <option value="$PROJECT_DIR$/191209/attach_number.txt" />
+        <option value="$PROJECT_DIR$/191209/attach_number.py" />
+        <option value="$PROJECT_DIR$/191209/safety_area.txt" />
+        <option value="$PROJECT_DIR$/191209/safety_area.py" />
+        <option value="$PROJECT_DIR$/191209/cheese.txt" />
+        <option value="$PROJECT_DIR$/191209/cheese.py" />
+        <option value="$PROJECT_DIR$/191209/iceberg.txt" />
+        <option value="$PROJECT_DIR$/191209/iceberg.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="488" />
-    <option name="y" value="80" />
+    <option name="x" value="658" />
+    <option name="y" value="12" />
     <option name="width" value="1122" />
     <option name="height" value="1039" />
   </component>
@@ -181,6 +167,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="191209" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,26 +194,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="191115" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../일타싸피_ver1.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -226,8 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stem_cell">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.iceberg">
+    <configuration name="attach_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191114" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191209" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191114/123.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\algorithm\191209\2667_단지번호붙이기_병권.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="break_brick" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cheese" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191114" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191209" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191114/break_brick.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\algorithm\191209\2636_치즈_고병권.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dessert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iceberg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191115" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191209" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191115/dessert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191209/iceberg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="magnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="safety_area" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191115" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/191209" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191115/magnet.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\algorithm\191209\2468_안전영역_고병권.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,19 +319,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.123" />
-      <item itemvalue="Python.break_brick" />
-      <item itemvalue="Python.dessert" />
-      <item itemvalue="Python.magnet" />
       <item itemvalue="Python.stem_cell" />
+      <item itemvalue="Python.attach_number" />
+      <item itemvalue="Python.safety_area" />
+      <item itemvalue="Python.cheese" />
+      <item itemvalue="Python.iceberg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iceberg" />
+        <item itemvalue="Python.cheese" />
+        <item itemvalue="Python.safety_area" />
+        <item itemvalue="Python.attach_number" />
         <item itemvalue="Python.stem_cell" />
-        <item itemvalue="Python.magnet" />
-        <item itemvalue="Python.dessert" />
-        <item itemvalue="Python.break_brick" />
-        <item itemvalue="Python.123" />
       </list>
     </recent_temporary>
   </component>
@@ -363,15 +349,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="488" y="80" width="1122" height="1039" extended-state="0" />
-    <editor active="true" />
+    <frame x="658" y="12" width="1122" height="1039" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49208632" visible="true" weight="0.12915128" />
       <window_info id="Structure" order="1" sideWeight="0.50791365" side_tool="true" weight="0.14957266" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25553098" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25553098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,52 +374,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/191011/5176.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191011/5176.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" lean-forward="true" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191011/5178.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191011/5177.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191011/arithmetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191011/arithmetic.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18000" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190926/1799.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="19" selection-start-line="1" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191014/sangwon_birth.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/190813/1946.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -665,28 +604,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/191115/dessert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <marker date="1573781915284" expanded="true" signature="101:1225" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/191115/magnet.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191115/magnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <marker date="1573786499478" expanded="true" signature="98:1084" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/191115/stem_cell.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -694,7 +613,89 @@
     <entry file="file://$PROJECT_DIR$/191115/stem_cell.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191115/magnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191115/dessert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/attach_number.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/safety_area.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/cheese.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/iceberg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/2636_치즈_고병권.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1575858824531" expanded="true" signature="275:435" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/2667_단지번호붙이기_병권.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1575853762564" expanded="true" signature="54:55" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/2468_안전영역_고병권.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <marker date="1575855029948" expanded="true" signature="437:438" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191209/iceberg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <marker date="1575867522591" expanded="true" signature="286:480" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
