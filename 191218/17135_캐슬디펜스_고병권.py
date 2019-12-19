@@ -10,23 +10,22 @@ def defense():
     copy_position = enemy_position.copy()
     enemy = enemy_count
     attack = set()
-    copy_arr = [['0'] * M for _ in range(N)]
-    for x, y in copy_position:
-        copy_arr[x][y] = arr[x][y]
+    kill = [[0] * M for _ in range(N)]
+    archer_row = N - 1
     # 적이 없어질때까지 반복
     while enemy > 0:
         # 궁수의 위치(성) 바로 앞에서부터 BFS로 사정거리 내에 적이 있는지 확인
         for archer in archers:
             Q = deque()
             visit = {}
-            Q.append((N - 1, archer, 1))
-            visit[(N - 1, archer)] = 1
+            Q.append((archer_row, archer, 1))
+            visit[(archer_row, archer)] = 1
             while Q:
                 x, y, d = Q.popleft()
                 if d > D:
                     break
                 # 공격할 적 저장
-                if copy_arr[x][y] == '1':
+                if arr[x][y] == '1' and not kill[x][y]:
                     attack.add((x, y))
                     break
                 for dx, dy in delta:
@@ -39,21 +38,20 @@ def defense():
                         visit[(nx, ny)] = 1
         # 공격으로 적 없애기
         for x, y in attack:
-            copy_arr[x][y] = '0'
             enemy -= 1
             count += 1
+            kill[x][y] = 1
             copy_position.remove((x, y))
         attack.clear()
         temp = set()
-        # 적들 성 앞으로 한칸씩 이동
+        # 끝까지 온 적들 처리
         for x, y in copy_position:
-            copy_arr[x][y] = '0'
-            if x == N - 1:
+            if x == archer_row:
                 enemy -= 1
             else:
-                temp.add((x + 1, y))
-        for x, y in temp:
-            copy_arr[x][y] = '1'
+                temp.add((x, y))
+        # 궁수들 앞으로 한칸 이동
+        archer_row -= 1
         copy_position = temp.copy()
     if max_count < count:
         max_count = count
